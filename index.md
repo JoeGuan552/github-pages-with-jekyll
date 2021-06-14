@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Joe Guan's Website"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi my name is Joe Guan and I am a sohphomore at East Brunswick High School
